@@ -1,0 +1,16 @@
+Hello
+
+Forgot how to connect to server and some basics, 
+
+learned how to connect to generate keys and connect to servers using putty and how to install java in the linux server
+also learned how to edit files in linux
+some basic commands
+
+
+*** learned how to generate private keys using puttygen***
+
+
+How to clone repository to local 
+
+git clone http link - to avoid auth
+
